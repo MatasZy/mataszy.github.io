@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mato Žymanto PRIf20-2 Tinklalapis</title>
+    
+    
+    
+    <link>https://mataszy.github.io/posts/</link>
+    <description>Recent content in Posts on Mato Žymanto PRIf20-2 Tinklalapis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Nov 2023 18:23:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://mataszy.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Naujas Puslapis</title>
+      <link>https://mataszy.github.io/posts/mano-puslapis/</link>
+      <pubDate>Sun, 12 Nov 2023 18:23:46 +0200</pubDate>
+      
+      <guid>https://mataszy.github.io/posts/mano-puslapis/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Programavimas bendrąja prasme gali būti apibrėžiamas ir kaip veiksmų, kuriuos norima atlikti, apibrėžimas (panašiai kaip Planavimas).
+Jeigu norima, kad veiksmus atliktų kompiuteris tuomet Programavimas – kompiuterių programų kūrimo proceso dalis, kai algoritmas užrašomas kuria nors programavimo kalba. Programavimas apima meno, mokslo, matematikos bei inžinerijos elementus.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
